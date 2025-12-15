@@ -13,4 +13,4 @@ A simple example resource for saving and replaying vehicle "ghosts"
 5. There is no stop playback command as this is just supposed to be an example resource. You can modify the code to add that functionality if needed.
 
 ## Example video 
-<video src=".video/ghost_replay_480p.mp4" controls width="600"></video>
+[![Example Video](./.image/thumb.png)](https://fx-drift.com/assets/video/ghost_replay.mp4)
